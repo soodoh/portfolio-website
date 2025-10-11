@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "classnames": "^2.5.1",
-    "motion": "^12.23.22",
+    "motion": "^12.23.24",
     "next": "^15.5.4",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
@@ -31,7 +31,7 @@
     "@netlify/plugin-nextjs": "^5.13.5",
     "@playwright/test": "^1.56.0",
     "@tsconfig/next": "^2.0.3",
-    "@types/node": "24.7.0",
+    "@types/node": "24.7.2",
     "@types/react": "^19.2.2",
     "cssnano": "^7.1.1",
     "eslint": "^9.37.0",
