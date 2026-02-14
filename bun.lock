@@ -17,7 +17,7 @@
         "@commitlint/config-conventional": "^20.3.1",
         "@commitlint/types": "^20.3.1",
         "@contentful/rich-text-types": "^17.2.5",
-        "@csstools/postcss-global-data": "^3.1.0",
+        "@csstools/postcss-global-data": "^4.0.0",
         "@netlify/plugin-lighthouse": "^6.0.4",
         "@netlify/plugin-nextjs": "^5.15.4",
         "@playwright/test": "^1.57.0",
@@ -156,7 +156,7 @@
 
     "@csstools/postcss-gamut-mapping": ["@csstools/postcss-gamut-mapping@3.0.1", "", { "dependencies": { "@csstools/css-color-parser": "^4.0.1", "@csstools/css-parser-algorithms": "^4.0.0", "@csstools/css-tokenizer": "^4.0.0" }, "peerDependencies": { "postcss": "^8.4" } }, "sha512-0S7D+gArVXsgRDxjoNv8g2QlaIi/SegqdlTMgVwowaPSyxaZsVnwrhShvmlpoLOVHmpJfHKGiXzn1Hc1BcZCzQ=="],
 
-    "@csstools/postcss-global-data": ["@csstools/postcss-global-data@3.1.0", "", { "peerDependencies": { "postcss": "^8.4" } }, "sha512-qfS0bUxBukuyxEyxTTZG+px2xwAQPf7Qk6B7lFdjWnovb/O6h0t3sxrVY81nJLh7z0KvEMhjxTURNtEmOrADpQ=="],
+    "@csstools/postcss-global-data": ["@csstools/postcss-global-data@4.0.0", "", { "peerDependencies": { "postcss": "^8.4" } }, "sha512-mPKrL3Tzt8k1V+hTkU8XTH6JKRekB97oKHv/MekC9nfmRa+gMf1swlHRt8YK722sYN4xOipl17FZst99jsScLA=="],
 
     "@csstools/postcss-gradients-interpolation-method": ["@csstools/postcss-gradients-interpolation-method@6.0.1", "", { "dependencies": { "@csstools/css-color-parser": "^4.0.1", "@csstools/css-parser-algorithms": "^4.0.0", "@csstools/css-tokenizer": "^4.0.0", "@csstools/postcss-progressive-custom-properties": "^5.0.0", "@csstools/utilities": "^3.0.0" }, "peerDependencies": { "postcss": "^8.4" } }, "sha512-Y5dxOstuUCdmU1tuEB/EgKxDw+/DAZes4gQeitb/H0S5khmjT24CfbVa/l2ZelNCEEq9KjxqO2cjwDV2vqj62w=="],
 
